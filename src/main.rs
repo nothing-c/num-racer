@@ -18,6 +18,9 @@ use rand::Rng;
 fn main() {
     let mut input = String::new();
     let args: Vec<String> = env::args().collect();
+    if args.len() < 2 {
+        help();
+    }
     let numofnums: usize = match args[1].parse() {
         Ok(num) => num,
         Err(_) => 0,
