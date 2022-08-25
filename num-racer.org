@@ -1,3 +1,0 @@
-#+TITLE: Numpad Typeracer Design Doc
-
-* Typeracer/monkeytype for CLI numpad
