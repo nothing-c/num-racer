@@ -1,0 +1,9 @@
+#+TITLE: num-racer README
+
+* num-racer: the next big thing in typing testing
+Bored of typeracer? Monkeytype getting old? Well, stand aside, oldheads, cuz the newest, hippest typing tester
+is here!
+
+num-racer is easy to install and use. Just call it as num-racer [length of sequence], and get typing!.
+
+Written in Rust, its memory-safe, and highly recommended for accountants to use to practice their Excel ability.
